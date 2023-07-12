@@ -1,0 +1,18 @@
+{
+    "name": "logo-generator",
+    "version": "1.0.0",
+    "description": "A simple logo generator",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^28.1.3"
+    }
+  }
