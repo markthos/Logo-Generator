@@ -25,7 +25,7 @@
   This project is covered under the mit [License](https://choosealicense.com/licenses/${license})
 
   ## Contribution
-  undefined
+  N/A
 
   ## Testing
   Please stress this app and let me know so that I can address any issues.
