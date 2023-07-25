@@ -19,7 +19,7 @@
   Please be sure to have node.js installed on your computer.  Clone the repo into your folder.  Make sure you have jest and inquirer already installed as well.
 
   ## Usage
-  Open up the application in your command line and answer the questions as best you can. This should provide a SVG file that will have your text, text.color, shape, and shape.color.
+  Open up the application in your command line and answer the questions as best you can. This should provide a SVG file that will have your text, text.color, shape, and shape.color. [Here](https://drive.google.com/file/d/1Px78LEuAaCQ1iYcYWz78Tf7URI4xv2KC/view) is a quick video tutorial on how to use this app.
   
   ## License
   This project is covered under the mit [License](https://choosealicense.com/licenses/${license})
